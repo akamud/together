@@ -9,6 +9,7 @@ Think you can take from where an article stopped and create more useful informat
 - Categories and tags to posts just like in a blog to help people find what you write.
 - Centralized comments can provide greater feedback, everyone will be reviewing and talking about the same article.
 - Vote on the best version of the article. Sometimes just changing the order of something can help people understand it more easily.
+- Find all the articles by an author. If you get used to someone's way of explaining a subject, following his articles about different subjects might be a good idea. This also facilitates following opinions from an expert.
 - Some article is outdated? Don't worry, as soon as a new version comes up and gets enough voting, it will automatically replace the outdated article as the "best version".
 - Want to start learning something new? Start doing a search on Together. You may find dozens of different articles from various perspectives and aimed at different levels of knowledge.
 
