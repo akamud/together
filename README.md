@@ -15,4 +15,4 @@ Think you can take from where an article stopped and create more useful informat
 
 ## Collaborate
 Share the same vision on how knowledge should be distributed? Help us build it! <br />
-Right now the code is just designed to show how the idea works. There's nothing set in stone, not even the language chosen. If you think you can help in any other way than coding, contact me via email or even open an issue.
+Right now we don't even have any code, this was created just to show the idea and find other people willing to help. There's nothing set in stone, not even the language chosen. If you think you can help in any other way than coding, contact me via email or open an issue.
